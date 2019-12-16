@@ -1,28 +1,24 @@
 # Unity2019114f1-2D-Template
 
 ### Project description: 
-Introduction/Project summary 
-
+Project name: inclass-simpleSubNumbers-cs-a.hoerack
+What to do: create and layout README file and GUI
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+macOS, unity version: 2019.1.14f1, VSCode version: 1.40.1
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL (refRes: 1280x720) 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
-
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+no visuals
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+playmaker 1.9.0.p9
 
 ### Project state: 
-incl. progress in percent
-
-### Limitations: 
+not finished
 
 ### Lessons Learned: 
+README file layouting and repeated all the things we did in school
 
-Copyright by you :)
+Copyright by anna hoerack :)
